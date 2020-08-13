@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a47c6e958964ab5a0b4582aa2a5a1aa8",
+    "revision": "375d2db87955643cb88606c756a3a1cc",
     "url": "/Crio-DevSprint-Jun-2020-vikhyat-prabhu/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Crio-DevSprint-Jun-2020-vikhyat-prabhu/static/css/2.57ddf7ad.chunk.css"
   },
   {
-    "revision": "25e8a88606a2064856c9",
+    "revision": "c9128b24246d2f1a21e6",
     "url": "/Crio-DevSprint-Jun-2020-vikhyat-prabhu/static/css/main.5db1380d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Crio-DevSprint-Jun-2020-vikhyat-prabhu/static/js/2.9671ffd0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "25e8a88606a2064856c9",
-    "url": "/Crio-DevSprint-Jun-2020-vikhyat-prabhu/static/js/main.cb6186f7.chunk.js"
+    "revision": "c9128b24246d2f1a21e6",
+    "url": "/Crio-DevSprint-Jun-2020-vikhyat-prabhu/static/js/main.444bc21c.chunk.js"
   },
   {
     "revision": "c5aa5402a12ebccf552a",

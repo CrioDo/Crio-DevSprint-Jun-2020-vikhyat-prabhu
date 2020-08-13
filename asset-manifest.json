@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Crio-DevSprint-Jun-2020-vikhyat-prabhu/static/css/main.5db1380d.chunk.css",
-    "main.js": "/Crio-DevSprint-Jun-2020-vikhyat-prabhu/static/js/main.cb6186f7.chunk.js",
-    "main.js.map": "/Crio-DevSprint-Jun-2020-vikhyat-prabhu/static/js/main.cb6186f7.chunk.js.map",
+    "main.js": "/Crio-DevSprint-Jun-2020-vikhyat-prabhu/static/js/main.444bc21c.chunk.js",
+    "main.js.map": "/Crio-DevSprint-Jun-2020-vikhyat-prabhu/static/js/main.444bc21c.chunk.js.map",
     "runtime-main.js": "/Crio-DevSprint-Jun-2020-vikhyat-prabhu/static/js/runtime-main.33aa44b8.js",
     "runtime-main.js.map": "/Crio-DevSprint-Jun-2020-vikhyat-prabhu/static/js/runtime-main.33aa44b8.js.map",
     "static/css/2.57ddf7ad.chunk.css": "/Crio-DevSprint-Jun-2020-vikhyat-prabhu/static/css/2.57ddf7ad.chunk.css",
     "static/js/2.9671ffd0.chunk.js": "/Crio-DevSprint-Jun-2020-vikhyat-prabhu/static/js/2.9671ffd0.chunk.js",
     "static/js/2.9671ffd0.chunk.js.map": "/Crio-DevSprint-Jun-2020-vikhyat-prabhu/static/js/2.9671ffd0.chunk.js.map",
     "index.html": "/Crio-DevSprint-Jun-2020-vikhyat-prabhu/index.html",
-    "precache-manifest.28d52286eb5d7bd93ae9d229e0b1b6b0.js": "/Crio-DevSprint-Jun-2020-vikhyat-prabhu/precache-manifest.28d52286eb5d7bd93ae9d229e0b1b6b0.js",
+    "precache-manifest.078bd33ff5fa9f560e5d85f1c88fb828.js": "/Crio-DevSprint-Jun-2020-vikhyat-prabhu/precache-manifest.078bd33ff5fa9f560e5d85f1c88fb828.js",
     "service-worker.js": "/Crio-DevSprint-Jun-2020-vikhyat-prabhu/service-worker.js",
     "static/css/2.57ddf7ad.chunk.css.map": "/Crio-DevSprint-Jun-2020-vikhyat-prabhu/static/css/2.57ddf7ad.chunk.css.map",
     "static/css/main.5db1380d.chunk.css.map": "/Crio-DevSprint-Jun-2020-vikhyat-prabhu/static/css/main.5db1380d.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.57ddf7ad.chunk.css",
     "static/js/2.9671ffd0.chunk.js",
     "static/css/main.5db1380d.chunk.css",
-    "static/js/main.cb6186f7.chunk.js"
+    "static/js/main.444bc21c.chunk.js"
   ]
 }
